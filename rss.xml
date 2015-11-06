@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ChanceCraven]]></title>
         <description><![CDATA[ChanceCraven]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chancecraven/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 17:00:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 Nov 2015 17:39:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chancecraven/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just another example]]></title>
+            <description><![CDATA[<article><h1>Just another example</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57a502b4-41b8-44b6-8001-eb5a1def75b6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chancecraven/just-another-example/index.html</link>
+            <guid isPermaLink="false">9f25d5c2-d7c9-4dda-8ed8-efe7afca7d79</guid>
+            <pubDate>Fri, 06 Nov 2015 17:35:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/chancecraven/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">5a55745c-1963-4df6-8a2b-12d24aeed19e</guid>
             <pubDate>Fri, 06 Nov 2015 16:59:43 GMT</pubDate>
         </item>
