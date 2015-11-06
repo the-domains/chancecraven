@@ -1,0 +1,23 @@
+name: ChanceCraven
+favicon: null
+layout_spectrum: 0.5670430019963533
+typography_spectrum: 0.9458586538676172
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9319583291653544
+  lightness: 0.889656798215583
+  saturation: 0.6375469365157187
+  rhythmicContrast: 0.7995037287473679
+purpose: []
